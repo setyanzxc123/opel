@@ -1,0 +1,1 @@
+Folder ini menyimpan file runtime seperti nik-data.json, processed-niks.json, invalid-niks.json, dan automation-error.log. File-file tersebut bersifat sensitif sehingga diabaikan melalui .gitignore. Isi file ini hanya penanda agar struktur folder tetap ada di repository.

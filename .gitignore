@@ -1,0 +1,15 @@
+# Dependencies
+/node_modules/
+
+# Runtime data (sensitive)
+/data/*.json
+/data/*.log
+/data/*.txt
+/data/*.csv
+/data/*.xlsx
+!data/README.md
+
+# Environment files
+/.env
+/.env.*
+!.env.example
